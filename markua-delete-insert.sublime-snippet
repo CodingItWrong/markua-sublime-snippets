@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+${1://} markua-start-delete
+$0
+${1://} markua-end-delete
+${1://} markua-start-insert
+$2
+${1://} markua-end-insert
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>mdi</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.html.markdown</scope>
+</snippet>
